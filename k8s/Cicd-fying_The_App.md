@@ -14,7 +14,7 @@
    ``` docker push <docker_username>/<image_name>:<tag > ```
 
 
-Kubernetes
+## Kubernetes
 
 1. Create a k8s folder and create a "manifests" folder in it
 
